@@ -1,0 +1,136 @@
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+D:\Projects\Asp.Net Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\User\Desktop\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\user\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+D:\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\NICE RAJU\Downloads\New folder\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+D:\HRM Project\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+D:\HRM Project\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\NICE RAJU\Downloads\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.deps.json
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Core.pdb
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\bin\Debug\net6.0\Tactsoft.Data.pdb
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.AssemblyReference.cache
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfoInputs.cache
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.AssemblyInfo.cs
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CoreCompileInputs.cache
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.csproj.CopyComplete
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\refint\Tactsoft.Service.dll
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\Tactsoft.Service.pdb
+C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft.Service\obj\Debug\net6.0\ref\Tactsoft.Service.dll

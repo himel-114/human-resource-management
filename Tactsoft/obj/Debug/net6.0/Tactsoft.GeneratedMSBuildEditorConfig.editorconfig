@@ -1,0 +1,860 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Tactsoft
+build_property.RootNamespace = Tactsoft
+build_property.ProjectDir = C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Himel\Desktop\HRM\Tactsoft\Tactsoft
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AdvanceType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVR5cGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AdvanceType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVR5cGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AdvanceType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVR5cGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AdvanceType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVR5cGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AdvanceType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVR5cGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Advance/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Advance/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Advance/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Advance/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Advance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWR2YW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowance/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dhbmNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowance/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dhbmNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowance/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dhbmNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowance/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dhbmNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dhbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AllowensDetails/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNEZXRhaWxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AllowensDetails/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNEZXRhaWxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AllowensDetails/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNEZXRhaWxzXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AllowensDetails/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNEZXRhaWxzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AllowensDetails/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNEZXRhaWxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowens/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowens/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowens/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowens/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Allowens/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxsb3dlbnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AttachmentType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFR5cGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AttachmentType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFR5cGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AttachmentType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFR5cGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AttachmentType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFR5cGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AttachmentType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFR5cGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attachment/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attachment/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attachment/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attachment/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attachment/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YWNobWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attandance/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attandance/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attandance/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attandance/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Attandance/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXR0YW5kYW5jZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AwardType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRUeXBlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AwardType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRUeXBlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AwardType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRUeXBlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AwardType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRUeXBlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/AwardType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRUeXBlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Award/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Award/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Award/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Award/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Award/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXdhcmRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/BloodGroup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RHcm91cFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/BloodGroup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RHcm91cFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/BloodGroup/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RHcm91cFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/BloodGroup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RHcm91cFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/BloodGroup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmxvb2RHcm91cFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Branch/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Branch/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Branch/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Branch/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Branch/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJhbmNoXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/City/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/City/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/City/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/City/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/City/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2l0eVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Company/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Company/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Company/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Company/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Company/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29tcGFueVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Country/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Country/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Country/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Country/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Country/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ291bnRyeVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Dashboard/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Deduction/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVkdWN0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Deduction/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVkdWN0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Deduction/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVkdWN0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Deduction/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVkdWN0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Deduction/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVkdWN0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Degree/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVncmVlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Degree/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVncmVlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Degree/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVncmVlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Degree/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVncmVlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Degree/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVncmVlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Department/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Department/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Department/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Department/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Department/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVwYXJ0bWVudFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Designation/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Designation/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Designation/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Designation/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Designation/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGVzaWduYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EducationGroup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uR3JvdXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EducationGroup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uR3JvdXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EducationGroup/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uR3JvdXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EducationGroup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uR3JvdXBcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EducationGroup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uR3JvdXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Education/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Education/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Education/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Education/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Education/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWR1Y2F0aW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Employee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Employee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Employee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Employee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Employee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95ZWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EmploymentHistory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudEhpc3RvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EmploymentHistory/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudEhpc3RvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EmploymentHistory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudEhpc3RvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EmploymentHistory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudEhpc3RvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/EmploymentHistory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRW1wbG95bWVudEhpc3RvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/FamilyMember/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/FamilyMember/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/FamilyMember/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/FamilyMember/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/FamilyMember/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRmFtaWx5TWVtYmVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Gender/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Gender/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Gender/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Gender/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Gender/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VuZGVyXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/LeaveApplication/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBcHBsaWNhdGlvblxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/LeaveApplication/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBcHBsaWNhdGlvblxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/LeaveApplication/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBcHBsaWNhdGlvblxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/LeaveApplication/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBcHBsaWNhdGlvblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/LeaveApplication/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVBcHBsaWNhdGlvblxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Leave/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Leave/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Leave/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Leave/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Leave/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGVhdmVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/MaritialStatus/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRpYWxTdGF0dXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/MaritialStatus/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRpYWxTdGF0dXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/MaritialStatus/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRpYWxTdGF0dXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/MaritialStatus/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRpYWxTdGF0dXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/MaritialStatus/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFyaXRpYWxTdGF0dXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Nominee/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5lZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Nominee/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5lZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Nominee/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5lZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Nominee/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5lZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Nominee/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTm9taW5lZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Project/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Project/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Project/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Project/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Project/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvamVjdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Reference/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Reference/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Reference/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Reference/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Reference/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVmZXJlbmNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/RelatiolShip/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb2xTaGlwXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/RelatiolShip/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb2xTaGlwXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/RelatiolShip/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb2xTaGlwXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/RelatiolShip/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb2xTaGlwXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/RelatiolShip/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRpb2xTaGlwXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Religion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Religion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Religion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Religion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Religion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsaWdpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalarySetup/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5U2V0dXBcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalarySetup/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5U2V0dXBcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalarySetup/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5U2V0dXBcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalarySetup/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5U2V0dXBcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalarySetup/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5U2V0dXBcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalaryType/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5VHlwZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalaryType/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5VHlwZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalaryType/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5VHlwZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalaryType/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5VHlwZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/SalaryType/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2FsYXJ5VHlwZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ServiceInfo/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUluZm9cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ServiceInfo/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUluZm9cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ServiceInfo/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUluZm9cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ServiceInfo/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUluZm9cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ServiceInfo/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZUluZm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Partial/Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcRm9vdGVyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Partial/Navbar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcTmF2YmFyLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Partial/Scripts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU2NyaXB0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Partial/Sidebar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU2lkZWJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/Partial/Styles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXFBhcnRpYWxcU3R5bGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/State/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/State/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/State/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/State/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/State/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3RhdGVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Training/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Training/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Training/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Training/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Training/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVHJhaW5pbmdcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/UIComponents/_bootstrapAlert.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlDb21wb25lbnRzXF9ib290c3RyYXBBbGVydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/UIComponents/_MediumModal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVUlDb21wb25lbnRzXF9NZWRpdW1Nb2RhbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ZipCode/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmlwQ29kZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ZipCode/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmlwQ29kZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ZipCode/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmlwQ29kZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ZipCode/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmlwQ29kZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/ZipCode/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcWmlwQ29kZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-tn78jrqeed
+
+[C:/Users/Himel/Desktop/HRM/Tactsoft/Tactsoft/Views/Shared/_LayoutAdmin.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXRBZG1pbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = b-z7k1ej6tzl
